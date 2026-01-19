@@ -10,7 +10,7 @@ getting-started-journey-dotnet-developer-checklist
 - Stored Procedures
 - Triggers [Optional]
 
-## Visual Studion Project Basic
+## Visual Studio Project Basic
 - Project File
 - Solution File
 - Project Types
@@ -49,3 +49,9 @@ getting-started-journey-dotnet-developer-checklist
 - Basic Filtration with Where
 - General Projection with DTOs
 - Aggregate Functions
+- Core Querying
+    Where – basic & compound filtering
+    Select – projection to DTOs / anonymous types
+    SelectMany – flattening child collections
+    Distinct / DistinctBy
+    Contains, Any, All
