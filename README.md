@@ -38,8 +38,14 @@ getting-started-journey-dotnet-developer-checklist
 - Interface/Repo
 - Controllers
 - Single Table CRUD Operation
+- Single Table CRUD Operation with DTOs
 - Single Table CRUD with Parent Table Dropdowns
 - API Operation for File upload
 - API Operation for Single Table Bulk Records Add/Update Operation
-- API Operation for Master Detail CRUD Operation
+- API Operation for Master Detail CRUD Operation [With or without DTOs]
 - API Operation for adding logs in one table and updating status or related fields in master table
+
+## Linq Query Operations
+- Basic Filtration with Where
+- General Projection with DTOs
+- Aggregate Functions
